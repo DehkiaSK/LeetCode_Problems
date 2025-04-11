@@ -1,1 +1,1 @@
-This repository was created to document my progress in solving LeetCode problems. C# was my choice of programming language for this endeavor. Also, besides my own original answers, I included the optimized and best-practice code snippets as well.
+This repository was created to document my progress in solving LeetCode problems. C# was my choice of programming language for this endeavor. Also, besides my own original answers, I learned, practiced, and included the optimized and best-practice code snippets as well.
