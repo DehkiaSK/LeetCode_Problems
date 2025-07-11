@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyAnswer": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
